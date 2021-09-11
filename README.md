@@ -42,4 +42,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonym995&show_icons=true&locale=en&layout=compact" alt="anthonym995" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonym995&show_icons=true&locale=en" alt="anthonym995" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anthonym995&show_icons=true&locale=en" alt="anthonym995" /></p>
