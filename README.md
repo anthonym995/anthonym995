@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am Enthusiastic, Quick Learner, Mechanical Engineer, Tech Lover, Code for passion**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
  <a href="https://github.com/anthonym995" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anthony-m1995/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/im_antony_1995/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://angular.io" target="_blank"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> 
@@ -41,6 +41,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonym995&show_icons=true&locale=en&layout=compact" alt="anthonym995" /></p>
+<h2 align="left">GitHub Stats:</h2>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonym995&show_icons=true&locale=en&layout=compact" alt="anthonym995" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anthonym995&show_icons=true&locale=en" alt="anthonym995" /></p>
