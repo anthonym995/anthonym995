@@ -41,7 +41,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## <h2 align="left">GitHub Stats:</h2>
+<h2 align="left">GitHub Stats:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonym995&show_icons=true&locale=en&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="anthonym995" /></p>
 <a href="">
