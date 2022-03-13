@@ -5,7 +5,7 @@
 <h3 align="Left">☺️ About Me!</h3>
 <p>Hi all, I was started my coding career 2021 as UI Developer. I was actualy a Mechanical Engineering Graduated and my goal is to be a full stack developer.</p>
 
-- 🔭 I’m currently working as **UI Developer**
+- 🔭 I’m currently working as **Front-End Developer**
 
 - 🌱 I’m currently learning **Python, Angular, React, Node.js, Express.js, SQL, MongoDB,**
 
