@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📄 Checkout my online Portfolio: [https://anthonym995.github.io/portfolio/](https://anthonym995.github.io/portfolio/){:target="_blank"}
+- 📄 Checkout my online Portfolio: [https://anthonym995.github.io/portfolio/](https://anthonym995.github.io/portfolio/)
 
 - ⚡ Fun fact **I think I am Enthusiastic, Quick Learner, Mechanical Engineer, Tech Lover, Code for passion**
 
