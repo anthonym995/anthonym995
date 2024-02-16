@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Front-End Developer**
 
-- 🌱 I’m Interested to learn **Python, Django, Flask, Linux**
+- 🌱 I’m Interested to learn **Python, Django, Linux**
 
 - 👯 I’m Willing to Learn **New Technologies and Active learner**
 
