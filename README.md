@@ -4,7 +4,7 @@
 
 <h3 align="Left">☺️ About Me!</h3>
 <p>Hi all, I was started my coding career 2021 as UI Developer. I was actualy a Mechanical Engineering Graduated, 
- and i learned everything only form free sources like freeCodeCamp, w3schools and youtube etc...</p>
+ and i learned everything only from free sources like freeCodeCamp, w3schools and youtube etc...</p>
 
 - 🔭 I’m currently working as **Front-End Developer**
 
