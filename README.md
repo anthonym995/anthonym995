@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/anthony-m1995/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h3 align="left">📖Programming Languages</h3>
+<h3 align="left">📖 Programming Languages</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> 
@@ -46,7 +46,7 @@
 
 
 
-<h3 align="left">🛠Platforms & Tools</h3>
+<h3 align="left">🛠 Platforms & Tools</h3>
 <p>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
