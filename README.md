@@ -2,22 +2,23 @@
 <h1 align="center">Hi there, I'm Anthony 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<h3 align="Left">👨‍💻  About Me!</h3>
 <p>I began my coding journey in 2021 as a UI Developer, after graduating with a degree in Mechanical Engineering. My transition into the tech world was driven by a passion for coding, fueled by self-learning through free resources like freeCodeCamp, W3Schools, and YouTube.</p>
 
-- 🔭 <strong>Currently:</strong> Working as a Front-End Developer, crafting responsive and dynamic user interfaces.
+<h3 align="Left">👨‍💻  About Me!</h3>
 
-- 🌱 I’m Interested to learn **AI, DATA Science, Linux**
+- 🔭 <strong>Currently:</strong> Working as a Full Stack Developer, building both front-end and back-end solutions.
 
-- 👯 I’m Willing to Learn **New Technologies and Active learner**
+- 🌱 <strong>Learning:</strong> Exploring the realms of AI, Data Science, and Linux to expand my skill set.
 
-- 💬 Ask me about **Anything**
+- 👯 <strong>Aspiration:</strong> Always eager to learn new technologies and actively engage in continuous learning.
 
-- 📄 Checkout my online Portfolio: [https://anthonym995.github.io/portfolio/](https://anthonym995.github.io/portfolio/)
+- 💬 <strong>Ask Me About:</strong>Full Stack Developement, Front-end development, my learning journey, or any coding-related queries.
 
-- ⚡ Fun fact **I think I am Enthusiastic, Quick Learner, Mechanical Engineer, Tech Lover, Code for passion**
+- 📄 <strong>Portfolio:</strong> Check out my <a href="https://anthonym995.github.io/portfolio/">online portfolio</a> to see my work and projects.
 
-<h3 align="left">🔗 Get in touch</h3>
+- ⚡ <strong>Fun Fact:</strong> I’m an enthusiastic, quick learner who loves to blend my engineering mindset with my passion for coding.
+
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
  <a href="https://github.com/anthonym995" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anthony-m1995/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
