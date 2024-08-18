@@ -1,12 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonym995&label=Profile%20views&color=0e75b6&style=flat" alt="anthonym995" /> </p>
-<h1 align="center">Hi 👋, I'm Anthony</h1>
+<h1 align="center">Hi there, I'm Anthony 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<h3 align="Left">☺️ About Me!</h3>
-<p>Hi all, I was started my coding career 2021 as UI Developer. I was actualy a Mechanical Engineering Graduated, 
- and i learned everything only from free sources like freeCodeCamp, w3schools and youtube etc...</p>
+<h3 align="Left">👨‍💻  About Me!</h3>
+<p>I began my coding journey in 2021 as a UI Developer, after graduating with a degree in Mechanical Engineering. My transition into the tech world was driven by a passion for coding, fueled by self-learning through free resources like freeCodeCamp, W3Schools, and YouTube.</p>
 
-- 🔭 I’m currently working as **Front-End Developer**
+- 🔭 <strong>Currently:</strong> Working as a Front-End Developer, crafting responsive and dynamic user interfaces.
 
 - 🌱 I’m Interested to learn **AI, DATA Science, Linux**
 
